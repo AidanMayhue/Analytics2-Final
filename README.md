@@ -7,6 +7,6 @@ Operating System: Mac
 
 ## Section 2 (Map of documentation)
 |
-|- data - paddyclean.csv
+|- data - paddyclean.csv /n
 |
-|- notebooks-- Regression_SVM.ipynb
+|- notebooks-- Regression_SVM.ipynb /n
