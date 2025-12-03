@@ -6,3 +6,7 @@ Packages: Pandas, Numpy, StandardScaler, Pipeline, Ridge, Column Transformer, On
 Operating System: Mac
 
 ## Section 2 (Map of documentation)
+|
+|- data - paddyclean.csv
+|
+|- notebooks-- Regression_SVM.ipynb
