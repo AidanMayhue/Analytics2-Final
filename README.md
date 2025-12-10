@@ -9,8 +9,8 @@ Operating System: Mac
 |                                                                                                                                                                                                                      
 |-final_report.pdf                                                                                                                                                                                                   
 |-.gitignore                                                                                                                                                                                                      
-_-requirements.txt                                                                                                                                                                                                            
-|
+|-requirements.txt                                                                                                                                                                                                            
+|                                                                                                                                                                                                      
 |- **notebooks**                                                                                                                                                                                    
       |---- Regression_SVM.ipynb                                                                                                                                                                           
       |---- Ensemble.ipynb                                                                                                                                                                                  
