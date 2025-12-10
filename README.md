@@ -1,12 +1,34 @@
 # Aidan Mayhue, Ivey Mistele, Oliver Andress
 ## Section 1 (Software and Platform Section)
-Python Version:3.11.4
-Jupyter notebooks: 
-Packages: Pandas, Numpy, StandardScaler, Pipeline, Ridge, Column Transformer, OneHotEncoder, GridSearchCV, accuracy_score, SVR
-Operating System: Mac
+Python Version:3.11.4                                                                                                                                                                                                
+Jupyter notebooks:                                                                                                                                                                                                   
+Packages: Pandas, Numpy, StandardScaler, Pipeline, Ridge, Column Transformer, OneHotEncoder, GridSearchCV, accuracy_score, SVR                                                                                      
+Operating System: Mac                                                                                                                                                                                                
 
 ## Section 2 (Map of documentation)
-|
-|- data - paddyclean.csv /n
-|
-|- notebooks-- Regression_SVM.ipynb /n
+|                                                                                                                                                                                                                      
+|-final_report.pdf                                                                                                                                                                                                   
+|-.gitignore                                                                                                                                                                                                      
+|-requirements.txt                                                                                                                                                                                                            
+|                                                                                                                                                                                                      
+|- **notebooks**                                                                                                                                                                                    
+      |---- Regression_SVM.ipynb                                                                                                                                                                           
+      |---- Ensemble.ipynb                                                                                                                                                                                  
+      |---- Nueral_net.ipynb                                                                                                                                                  
+      |----file_splitter.ipynb
+      |----eda.ipynb                                                                                                                                                                                    
+      |----test_set_eval.ipynb                                                                                                                                                                              
+|                                                                                                                                                                                                            
+|- **data**                                                                                                                                                                                                   
+      |----X_test.csv                                                                                                                      
+      |----y_test.csv                                                                                                                                                                                    
+      |----paddyclean.csv                                                                                                                                                                                          
+      |----paddydataset.csv                                                                                                                                                                                   
+|                                                                                                                                                                                                                  
+|- **outputs**                                                                                                                                                                                                      
+      |----EDA1.png                                                                                                                                                                                                
+      |----EDA2.png                                                                                                                              
+      |----RF.png                                                                                                                                                                               
+      |----Ridge.png                                                                                                                                                                                                
+      |----SVR.png                                                                                                                                                                                                
+      |----NN.png                                                                                                                                                                                    
