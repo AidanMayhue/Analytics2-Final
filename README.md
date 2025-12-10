@@ -8,7 +8,8 @@ Operating System: Mac
 ## Section 2 (Map of documentation)
 |                                                                                                                                                                                                                      
 |-final_report.pdf                                                                                                                                                                                                   
-|-.gitignore
+|-.gitignore                                                                                                                                                                                                      
+_-requirements.txt                                                                                                                                                                                                            
 |
 |- **notebooks**                                                                                                                                                                                    
       |---- Regression_SVM.ipynb                                                                                                                                                                           
