@@ -16,6 +16,8 @@ Operating System: Mac
       |---- Ensemble.ipynb                                                                                                                                                                                  
       |---- Nueral_net.ipynb                                                                                                                                                  
       |----file_splitter.ipynb
+      |----eda.ipynb                                                                                                                                                                                    
+      |----test_set_eval.ipynb                                                                                                                                                                              
 |                                                                                                                                                                                                            
 |- **data**                                                                                                                                                                                                   
       |----X_test.csv                                                                                                                      
