@@ -8,23 +8,24 @@ Operating System: Mac
 ## Section 2 (Map of documentation)
 |                                                                                                                                                                                                                      
 |-final_report.pdf                                                                                                                                                                                                   
-|                                                                                                                                                                                                                     
+|-.gitignore
+|
 |- **notebooks**                                                                                                                                                                                    
-      |-- Regression_SVM.ipynb                                                                                                                                                                           
-      |-- Ensemble.ipynb                                                                                                                                                                                  
-      |-- Nueral_net.ipynb                                                                                                                                                  
-      |--file_splitter.ipynb
+      |---- Regression_SVM.ipynb                                                                                                                                                                           
+      |---- Ensemble.ipynb                                                                                                                                                                                  
+      |---- Nueral_net.ipynb                                                                                                                                                  
+      |----file_splitter.ipynb
 |                                                                                                                                                                                                            
 |- **data**                                                                                                                                                                                                   
-      |--X_test.csv                                                                                                                      
-      |--y_test.csv                                                                                                                                                                                    
-      |--paddyclean.csv                                                                                                                                                                                          
-      |--paddydataset.csv                                                                                                                                                                                   
+      |----X_test.csv                                                                                                                      
+      |----y_test.csv                                                                                                                                                                                    
+      |----paddyclean.csv                                                                                                                                                                                          
+      |----paddydataset.csv                                                                                                                                                                                   
 |                                                                                                                                                                                                                  
 |- **outputs**                                                                                                                                                                                                      
-      |--EDA1.png                                                                                                                                                                                                
-      |--EDA2.png                                                                                                                              
-      |--RF.png                                                                                                                                                                               
-      |--Ridge.png                                                                                                                                                                                                
-      |--SVR.png                                                                                                                                                                                                
-      |--NN.png                                                                                                                                                                                    
+      |----EDA1.png                                                                                                                                                                                                
+      |----EDA2.png                                                                                                                              
+      |----RF.png                                                                                                                                                                               
+      |----Ridge.png                                                                                                                                                                                                
+      |----SVR.png                                                                                                                                                                                                
+      |----NN.png                                                                                                                                                                                    
