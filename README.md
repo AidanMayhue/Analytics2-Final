@@ -15,7 +15,7 @@ Operating System: Mac
       |---- Regression_SVM.ipynb                                                                                                                                                                           
       |---- Ensemble.ipynb                                                                                                                                                                                  
       |---- Nueral_net.ipynb                                                                                                                                                  
-      |----file_splitter.ipynb
+      |----file_splitter.ipynb                                                                                                                                                                  
       |----eda.ipynb                                                                                                                                                                                    
       |----test_set_eval.ipynb                                                                                                                                                                              
 |                                                                                                                                                                                                            
